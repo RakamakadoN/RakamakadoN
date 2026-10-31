@@ -8,7 +8,6 @@ AI developer building practical tools for debugging, automation, and business sy
 
 - [Ghost Busters Skill](https://github.com/RakamakadoN/ghost-busters-skill) — read-only debugging protocol and static analyzers for silent failures. Selected work is included in the XERJ Corpus Hub.
 - [Ghost Busters PRO](https://github.com/RakamakadoN/ghost-busters-pro) — security and code-analysis tooling.
-- [Pavlodar Pulse](https://github.com/RakamakadoN/pavlodar-pulse) — civic technology platform for city requests and geospatial insights.
 
 ## Areas of interest
 
