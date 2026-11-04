@@ -5,6 +5,14 @@ AI developer building practical tools for debugging, automation, and business sy
 [![XERJ Corpus Hub Contributor](https://hub.xerj.org/contributors/RakamakadoN/badge.svg)](https://hub.xerj.org/contributors/RakamakadoN)
 [![OpenAI merged contributor](https://img.shields.io/badge/OpenAI-merged%20contributor-238636?logo=github&logoColor=white)](https://github.com/openai/codex-security/pull/2163)
 
+## OpenAI open-source milestone
+
+[**PR #2163**](https://github.com/openai/codex-security/pull/2163) was **merged into `openai/codex-security:main`** on November 4, 2026 (UTC).
+
+> “Cool! Thank you for the contribution!”  
+> — [@mldangelo-oai, PR reviewer](https://github.com/openai/codex-security/pull/2163#issuecomment-6640638679)
+
+
 ## Featured projects
 
 - [Ghost Busters Skill](https://github.com/RakamakadoN/ghost-busters-skill) — read-only debugging protocol and static analyzers for silent failures. Selected work is included in the XERJ Corpus Hub.
