@@ -45,6 +45,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/THE_WARRIOR'S_TEST-剣-b89355?style=for-the-badge&labelColor=111721" alt="The Warrior's Test — Sword" />
+</p>
+
+<p align="center">
+  <em><strong>“Mastery of the sword, untested in battle,<br />
+  is like learning to swim on dry land.”</strong></em>
+</p>
+
+<p align="center">
+  <sub>— Hanshirō Tsugumo · <i>Harakiri</i> (1962) · English rendering</sub>
+</p>
+
+---
+
 ## OpenAI open-source milestone
 
 <p>
