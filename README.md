@@ -22,6 +22,21 @@ I focus on **silent failures**: situations where software reports success while 
 
 ---
 
+## XERJ Corpus Hub · Selected open-source work
+
+**Ghost Busters Skill was selected for the [XERJ Corpus Hub](https://hub.xerj.org/contributors/RakamakadoN)** on **October 24, 2026**.
+
+XERJ included a **pinned, indexed snapshot of my open-source repository** in its reference corpus library for AI coding agents. Agents can search the real source code and retrieve worked examples with references to the original repository, commit, file, and line — rather than relying on a general description.
+
+- **What was included:** [`RakamakadoN/ghost-busters-skill`](https://hub.xerj.org/corpus/rakamakadon--ghost-busters-skill) — a snapshot of **23 source files (135.8 KB)** at pinned commit [`b583898c8c`](https://github.com/RakamakadoN/ghost-busters-skill/commit/b583898c8c3e4e1f07fa2cdf257093350baf3e71).
+- **Selected contribution:** XERJ highlights one commit involving the debugging scanners and reference tests (**3 files / 179 lines** attributed in its contributor registry).
+- **Attribution and licence:** Listed publicly under **Diyaz Seisenbayev (@RakamakadoN)**. The corpus page records author permission and **MIT licensing with credit**.
+- **What this proves:** Independent selection and indexing of the project as an AI-agent reference corpus. **It does not claim a merge into XERJ's core engine, employment, or endorsement of other projects.**
+
+**Verify:** [Contributor profile](https://hub.xerj.org/contributors/RakamakadoN) · [Live corpus](https://hub.xerj.org/corpus/rakamakadon--ghost-busters-skill) · [Selected GitHub commit](https://github.com/RakamakadoN/ghost-busters-skill/commit/b583898c8c3e4e1f07fa2cdf257093350baf3e71)
+
+---
+
 ## OpenAI open-source milestone
 
 [**PR #2163**](https://github.com/openai/codex-security/pull/2163) was **merged into `openai/codex-security:main`** on November 4, 2026 (UTC).
