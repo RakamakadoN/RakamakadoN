@@ -37,7 +37,7 @@ XERJ includes the project's source code in its **reference corpus for AI coding 
 | XERJ record | Verified selection |
 | :-- | :-- |
 | **Indexed source** | Full repository snapshot: **23 files · 135.8 KB** |
-| **Pinned revision** | [\`b583898c8c\`](https://github.com/RakamakadoN/ghost-busters-skill/commit/b583898c8c3e4e1f07fa2cdf257093350baf3e71) |
+| **Pinned revision** | [`b583898c8c`](https://github.com/RakamakadoN/ghost-busters-skill/commit/b583898c8c3e4e1f07fa2cdf257093350baf3e71) |
 | **Highlighted work** | **1 selected commit · 3 files · 179 lines** in the contributor registry |
 | **Authorship** | **Diyaz Seisenbayev · @RakamakadoN** |
 | **License** | **MIT, with attribution** |
@@ -48,9 +48,9 @@ The indexed work covers the Ghost Busters debugging toolkit: an approach to iden
 
 ### ⚡ OpenAI codex-security · Merged contribution
 
-**[PR #2163 — fix(activity): preserve shell-escaped whitespace in repository paths](https://github.com/openai/codex-security/pull/2163)** was merged into **\`openai/codex-security:main\`** on **November 4, 2026 (UTC)**.
+**[PR #2163 — fix(activity): preserve shell-escaped whitespace in repository paths](https://github.com/openai/codex-security/pull/2163)** was merged into **`openai/codex-security:main`** on **November 4, 2026 (UTC)**.
 
-**The problem:** A POSIX shell-escaped space or tab in a path could cause scan activity to report an incorrect filename. For example, a command reading \`src/my\ file.ts\` could be attributed to \`src/my\`.
+**The problem:** A POSIX shell-escaped space or tab in a path could cause scan activity to report an incorrect filename. For example, a command reading `src/my\ file.ts` could be attributed to `src/my`.
 
 **The change:** Preserve escaped whitespace when interpreting supported shell events, respect literal argv operands, and distinguish real file references from unrelated quoted text.
 
