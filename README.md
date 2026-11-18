@@ -26,7 +26,7 @@ I focus on **silent failures**: situations where software reports success while 
 
 [**PR #2163**](https://github.com/openai/codex-security/pull/2163) was **merged into `openai/codex-security:main`** on November 4, 2026 (UTC).
 
-**Why this mattered:** Scan activity could attribute a command to the **wrong file** when a repository path contained a POSIX shell-escaped space or tab. For example, reading `src/my\\ file.ts` could be recorded as `src/my`. That's misleading evidence during investigation.
+**Why this mattered:** Scan activity could attribute a command to the **wrong file** when a repository path contained a POSIX shell-escaped space or tab. For example, reading `src/my\ file.ts` could be recorded as `src/my`. That's misleading evidence during investigation.
 
 **What changed:** The fix preserves escaped whitespace in the relevant shell contexts, handles recorded arguments as literal operands, and avoids misidentifying unrelated quoted text as filenames.
 
