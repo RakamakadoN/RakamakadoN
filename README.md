@@ -18,7 +18,7 @@
 **AI developer building practical tools for debugging, automation, and business systems.**
 
 <p>
-  <img src="https://img.shields.io/badge/BASE-PAVLODAR%2C_KAZAKHSTAN-821f2d?style=flat-square&labelColor=171c25" alt="Based in Pavlodar, Kazakhstan" />
+  <img src="https://img.shields.io/badge/ROLE-AI_DEVELOPER-821f2d?style=flat-square&labelColor=171c25" alt="AI developer" />
   <img src="https://img.shields.io/badge/FOCUS-AI_AGENTS_%7C_DEV_TOOLS-b7935d?style=flat-square&labelColor=171c25" alt="Focus: AI agents and developer tools" />
   <img src="https://img.shields.io/badge/MODE-INDEPENDENT-758495?style=flat-square&labelColor=171c25" alt="Independent developer" />
 </p>
